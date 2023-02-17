@@ -48,14 +48,13 @@ Generalmente, la corriente alterna se refiere a la forma en la cual la electrici
 NOTA: Todas las preguntas son relacionadas, por lo que debe considerar las respuestas precedentes cada vez que conteste las preguntas. Para las lecturas de los valores debe considerar las graficas que presenta el osciloscopio.
 
 ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
-
-¿En qué valor está posicionada la perilla VOLTS/DIV? ___________
-
+    Aproximadamente 7 cuadros
+¿En qué valor está posicionada la perilla VOLTS/DIV? 
+    2 VOLTS/DIV
 ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
-__________
-
-¿En qué valor está posicionada la perilla TIME/DIV? ___________
-
+    4 Divisiones por cuadro
+¿En qué valor está posicionada la perilla TIME/DIV?
+    0.1ms
 8.5.5.¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla
 del osciloscopio?
 Amplitud de voltaje: ____________(V)
