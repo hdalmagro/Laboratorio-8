@@ -35,45 +35,52 @@ Generalmente, la corriente alterna se refiere a la forma en la cual la electrici
 
 ![image](https://user-images.githubusercontent.com/116781677/219645880-fc153777-94dd-4281-96d5-42ed9697ea1a.png)
 
-8.5.2.. Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a una frecuencia de 2.5 Khz.
+8.6.2.. Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a una frecuencia de 2.5 Khz.
 
 ![image](https://user-images.githubusercontent.com/116781677/219656161-59681586-d7e6-4cfb-b1ab-8e78007a5990.png)
 
-8.5.3. Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en el osciloscopio.
+8.6.3. Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en el osciloscopio.
 
 ![image](https://user-images.githubusercontent.com/116781677/219656711-5e8a35bb-95b4-4427-ad5a-0f6d79292e5f.png)
 
-8.5.4. Responda las siguientes preguntas:
+8.6.4. Responda las siguientes preguntas:
 
 NOTA: Todas las preguntas son relacionadas, por lo que debe considerar las respuestas precedentes cada vez que conteste las preguntas. Para las lecturas de los valores debe considerar las graficas que presenta el osciloscopio.
 
 ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
+
     Aproximadamente 7 cuadros
 ¿En qué valor está posicionada la perilla VOLTS/DIV? 
+
     2 VOLTS/DIV
 ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
+
     4 Divisiones por cuadro
 ¿En qué valor está posicionada la perilla TIME/DIV?
-    0.1ms
-8.5.5.¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla
-del osciloscopio?
-Amplitud de voltaje: ____________(V)
-Periodo: ____________(s)
 
-8.5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de
+    0.1ms
+8.6.5.¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla
+del osciloscopio?
+Amplitud de voltaje: 
+
+    13.7 (V)
+Periodo: 
+    
+    0.004(s)
+
+8.6.7 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de
 salida.
 
-f: _____________(Hz)
-ω: ____________(rad/s)
+f: 
 
-8.5.7. Con el multímetro digital mida el voltaje de salida en RL: _______________
+    2500(Hz)
+ω:
+    
+    5000pi(rad/s)
 
-8.5.8. Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.
-¿Coinciden? _______ ¿Por qué?
-_______________________________________________
+8.6.7. Con el multímetro digital mida el voltaje de salida en RL:
 
-
-
+![image](https://user-images.githubusercontent.com/116781677/219665184-c1a4ca4b-99de-43af-b1f4-c570cb812632.png)
 
 
 8.10. CONCLUCIONES
