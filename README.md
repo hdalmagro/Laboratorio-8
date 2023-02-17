@@ -37,11 +37,11 @@ Generalmente, la corriente alterna se refiere a la forma en la cual la electrici
 
 8.6.2.. Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a una frecuencia de 2.5 Khz.
 
-![image](https://user-images.githubusercontent.com/116781677/219656161-59681586-d7e6-4cfb-b1ab-8e78007a5990.png)
+![image](https://user-images.githubusercontent.com/116781677/219690843-703db66c-febe-4e93-afbc-0dd7d62a3c4c.png)
 
 8.6.3. Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en el osciloscopio.
 
-![image](https://user-images.githubusercontent.com/116781677/219656711-5e8a35bb-95b4-4427-ad5a-0f6d79292e5f.png)
+![image](https://user-images.githubusercontent.com/116781677/219691400-922b0d9b-8913-4d47-a6d1-5c4d470ff52f.png)
 
 8.6.4. Responda las siguientes preguntas:
 
@@ -52,7 +52,7 @@ NOTA: Todas las preguntas son relacionadas, por lo que debe considerar las respu
     Aproximadamente 7 cuadros
 ¿En qué valor está posicionada la perilla VOLTS/DIV? 
 
-    2 VOLTS/DIV
+    1 VOLTS/DIV
 ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
 
     4 Divisiones por cuadro
@@ -63,7 +63,7 @@ NOTA: Todas las preguntas son relacionadas, por lo que debe considerar las respu
 del osciloscopio?
 Amplitud de voltaje: 
 
-    13.7 (V)
+    6.85 (V)
 Periodo: 
     
     0.004(s)
